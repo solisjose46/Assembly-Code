@@ -6,7 +6,7 @@ li $v0, 8 #read string
 la $a0, my_name
 la $a1, length
 syscall
-move $t5, $v0 #chancged-----------------------------------------
+move $t5, $v0
 li $v0, 4 #print string is loaded into $v0
 la $a0, ask_age #address of ask_age is loaded into $a0
 syscall
