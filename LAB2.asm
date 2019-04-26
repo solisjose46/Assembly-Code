@@ -9,7 +9,7 @@ syscall
 
 jal new_line
 
-addi $sp, $sp, -8 #make room for 3 items on stack
+addi $sp, $sp, -8 #make room for 2 items on stack
 addi $s0, $zero, 0
 addi $s1, $zero, 0
 sw $s0, 0($sp) #int i = 0
