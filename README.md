@@ -9,3 +9,4 @@ LAB2.asm - Input 8 single digit numbers into an array as string. Convert from st
 lab3.asm - Read in a string of 4 digits four times using a loop (jal) and store each digit as an int in an array. Then iterate through int array to sum every digit and print result. <br />
 quiz2b.asm - Int Index = 8, int A[10], Index = A[Index] <br />
 Lab4.asm - coming soon
+matrix_mult_4_x_4.asm - simple 4x4 matrix multiplication
