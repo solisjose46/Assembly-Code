@@ -10,4 +10,4 @@ lab3.asm - Read in a string of 4 digits four times using a loop (jal) and store 
 Lab4a.asm - Lab4, read in 2 4x4 matrices and multiply them. Display results. <br />
 Lab5a.asm - Completely unroll inner loop from Lab4 <br/>
 Lab5b.asm - unroll inner loop, only two iterations of the inner loop <br/>
-Lab6.asm - coming soon <br />
+Lab6.asm - blocking an 8x8 matrix, taking advantage of localilty <br />
